@@ -1,0 +1,5 @@
+Account Name: jazzman
+Opening Balance: 29587.0
+Account Type: savings
+Account email: jazz@gnail.com
+Account Number: 4784469321
